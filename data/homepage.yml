@@ -5,15 +5,15 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
+  title: "Fujiiryoki របស់ប្រទេសជប៉ុន"
+  subtitle: ""
   description: "គុណសម្បត្តិលេចធ្លោរបស់ម៉ាសុីនម៉ាស្សា Fujiiryoki របស់ប្រទេសជប៉ុន</br>👉 គួបផ្សំវិធីសាស្រ្ត massage ជាច្រើន</br>👉 បំពាក់ដោយប្រព័ន្ធគ្រាប់ឃ្លី ​ប្រតិបត្តិការល្អបំផុត។</br>👉ប្រព័ន្ធពោងខ្យល់ដាក់ពង្រាយ ស្មើ ចលនាជ្រាបចូលដល់សាច់ ដុំគ្រប់កន្លែង</br>👉 កម្លាំង massage អាចសេរ៉េ បាន</br>👉 កៅអីបានបំពាក់ មុខងារ កំដៅដោយកាំរស្មីអិនហ្វ្រារ៉េត</br>👉មានបាស់ភ្ជាប់ Bluetooth ជាមួយទូរស័ព្ទដៃ ឬ ipad</br>👉បញ្ជាដោយថាច់"
   image:
-    alt: "Showcase keyboard and mouse image"
+    alt: "Fujiiryoki របស់ប្រទេសជប៉ុន"
     x: "ghe1.jpg"
     _2x: "ghe1.jpg"
   imageMobile:
-    alt: "Showcase keyboard and mouse image"
+    alt: "Fujiiryoki របស់ប្រទេសជប៉ុន"
     x: "ghe1.jpg"
 
   button:
