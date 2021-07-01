@@ -7,10 +7,7 @@ showcase:
   enable: true
   title: "Hello, I’m Andreas."
   subtitle: "Front-End Developer"
-  description: "គុណសម្បត្តិលេចធ្លោរបស់ម៉ាសុីនម៉ាស្សា Fujiiryoki របស់ប្រទេសជប៉ុន</br>👉 គួបផ្សំវិធីសាស្រ្ត massage ជាច្រើន</br>👉 បំពាក់ដោយប្រព័ន្ធគ្រាប់ឃ្លី ​ប្រតិបត្តិការល្អបំផុត។</br>👉ប្រព័ន្ធពោងខ្យល់ដាក់ពង្រាយ ស្មើ ចលនាជ្រាបចូលដល់សាច់ ដុំគ្រប់កន្លែង</br>👉 កម្លាំង massage អាចសេរ៉េ បាន</br>👉 កៅអីបានបំពាក់ មុខងារ កំដៅដោយកាំរស្មីអិនហ្វ្រារ៉េត</br>👉មានបាស់ភ្ជាប់ Bluetooth ជាមួយទូរស័ព្ទដៃ ឬ ipad</br>👉បញ្ជាដោយថាច់
-
-  
-  "
+  description: "គុណសម្បត្តិលេចធ្លោរបស់ម៉ាសុីនម៉ាស្សា Fujiiryoki របស់ប្រទេសជប៉ុន</br>👉 គួបផ្សំវិធីសាស្រ្ត massage ជាច្រើន</br>👉 បំពាក់ដោយប្រព័ន្ធគ្រាប់ឃ្លី ​ប្រតិបត្តិការល្អបំផុត។</br>👉ប្រព័ន្ធពោងខ្យល់ដាក់ពង្រាយ ស្មើ ចលនាជ្រាបចូលដល់សាច់ ដុំគ្រប់កន្លែង</br>👉 កម្លាំង massage អាចសេរ៉េ បាន</br>👉 កៅអីបានបំពាក់ មុខងារ កំដៅដោយកាំរស្មីអិនហ្វ្រារ៉េត</br>👉មានបាស់ភ្ជាប់ Bluetooth ជាមួយទូរស័ព្ទដៃ ឬ ipad</br>👉បញ្ជាដោយថាច់"
   image:
     alt: "Showcase keyboard and mouse image"
     x: "ghe1.jpg"
@@ -22,7 +19,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "/#contact"
+    URL: "https://fujiiryoki.asia/#contact"
 
   socialLinks:
     # - icon: "linkedin"
@@ -58,24 +55,33 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "លក្ខណៈពិសេស:"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    ប្រើភ្លើង : 220 – 240V
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
-    </p>'
+    កម្លាំងភ្លើង: 210W
+    </p>
+    <p class="lead">
+    ពេលវេលាប្រតិបត្តិការ: 10 - 30 នាទី
+    </p>
+    <p class="lead">
+    ការការពារប្រឆាំងនឹងបន្ទុកលើសកំដៅនិងបន្ទុកប្រពន័្ធភ្លើង
+    </p>
+    <p class="lead">
+    ត្រឡប់ទៅរដ្ឋដើមដោយស្វ័យប្រវត្តិក្នុងករណីមានការដាច់ចរន្តអគ្គិសនីភ្លាមៗ
+    </p>
+    <p class="lead">
+    ទំងន់សរុប: 184KG
+    </p>
+    '
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    btnText: "Call now!"
+    URL: "tel:855973028888"
   image:
-    x: "ghe3.jpt"
-    _2x: "ghe3.jpg"
+    x: "ghe4.jpt"
+    _2x: "ghe4.jpg"
 
 # education
 # education:
@@ -117,6 +123,7 @@ about:
 #       company: "Cyberse"
 #       duration: "Jun 2009 - Mar 2010"
 
+
 # Client & Work
 client_and_work:
   title: "Clients & Works"
@@ -154,23 +161,28 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "ផលិតផលតាមបច្ចេកវិទ្យាជប៉ុនជាមួយនឹងតម្លៃល្អបំផុតនៅលើទីផ្សារ"
+      description: "ជួយអោយអ្នកមានអារម្មណ៏ស្រស់ស្រាយពេញដងខ្លួនក្រោយពេលត្រឡប់មកពីធ្វើការវិញត្រឹមតែ 15នាទី ផលិតផលពីក្រុមហ៊ុនផ្ទាល់"
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Call: +855973028888"
+        # URL: "tel:0987943423"
       image:
         x: "ghe2.jpg"
         _2x: "ghe2.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: ""
+      description: '
+        ✅បច្ចេកទេសខ្យល់ ដ៏ល្អឥតខ្ចោះពីក្បាលដល់ចុងជើង
+        ✅ស្បែកមានគុណភាពខ្ពស់
+        ✅មានការធានាពីក្រុមហ៊ុនរយះពេល 5ឆ្នាំ
+'
+
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Call: +855973028888"
+        # URL: "#"
       image:
         x: "ghe3.jpg"
         _2x: "ghe3.jpg"
@@ -196,22 +208,22 @@ testimonial:
       position: "រដ្ឋបាល"
       content: "ខ្ញុំបានទទួលបានកៅអីម៉ាស្សាហើយ ពិតជាល្អប្រើណាស់ គ្រួសារខ្ញុំពេញចិត្តនឹងកៅអីម៉ាស្សានឹងខ្លាំងណាស់ 🥰🥰"
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "a1.jpg"
+        _2x: "a1.jpg"
 
     - name: "សៀន តាំងលី"
       position: "បុគ្គលិកក្រុមហ៊ុន"
       content: "ញុំទទួលបានអីវាន់ហើយ គ្រួសារញុំពេញចិត្តខ្លាំងណាស់ 😘😘"
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "a2.jpg"
+        _2x: "a2.jpg"
 
     - name: "រិទ្ធី ម៉ាលីតា"
       position: "គណនេយ្យ"
       content: "ខាងបងទើបតែដឹកជីញ្ជួននឹងតំឡើងកៅអីអោយខ្ញុំមុននឹង ហើយអ្នកម៉ាក់ខ្ញុំគាត់ឡើងអង្គុយសាក់ល្បងមិញនេះ គាត់ថាស្រួលណាស់មានអារម្មណ៍ដូចមានអ្នកកំពុងម៉ាស្សាជួនគាត់ផ្ទាល់ចឹង 😅😅"
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "a3.jpg"
+        _2x: "a3.jpg"
 
 # contact
 contact:
@@ -237,9 +249,9 @@ contact:
     btnText: "Send Message"
 
 # newsletter
-newsletter:
-  enable: true
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+# newsletter:
+#   enable: true
+#   title: "Newsletter subscription"
+#   success_message: "Successfully subscribed"
+#   error_message: "Error while subscribing."
+#   note: "We'll never share your email with anyone else."
